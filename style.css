@@ -1,0 +1,9 @@
+.background-image {
+  background-image: url('images/5cb5ee6b9df3f78c2c41fefb8b2d66fd.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.backdrop-blur {
+  backdrop-filter: blur(10px);
+}
